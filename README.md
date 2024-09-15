@@ -1,2 +1,1 @@
-# Ayuda para los
-
+.
